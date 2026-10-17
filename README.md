@@ -21,7 +21,7 @@ We tested the robot with real participants in a university lab setting:
 - **Information Trust:** Rated **4.6 / 5.0** for reliable and helpful answers.
 - **Response Accuracy:** Rated **4.4 / 5.0** across all building questions and check-in tasks.
 - **User Preference:** **80%** of participants preferred using the robot receptionist over waiting in line for a human staff member.
-- **Data Privacy:** Fully GDPR compliant; voice audio and camera feeds are processed locally on the laptop so no personal biometric data leaves the device.
+- **Data Privacy:** Fully GDPR compliant; voice audio and camera feeds are processed locally on the laptop and are not stored so no personal biometric data leaves the device.
 
 ---
 
